@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.TjgygFMs.mjs";function t(e,t){return{description:`Portfolio de Erwan Azmi, Designer digital.`,favicon:`images/dKEVDJf9UWnZiaCb3CyWH708qJ4_151.png`,robots:`max-image-preview:large`,socialImage:`images/CjzRC13CzntYNMN4jZIHJZMdxrs_152.png`,title:`Erwan Azmi | Portfolio`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.CPlB5SIP.mjs.map
